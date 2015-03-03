@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hunde News</title>
+  <subtitle>News für Trainer und Halter von Hunden.</subtitle>
+  <id>http://dognews.curation.space/blog</id>
+  <link href="http://dognews.curation.space/blog"/>
+  <link href="http://dognews.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name>Cloudburo Curation Team</name>
+  </author>
+</feed>
