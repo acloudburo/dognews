@@ -103,13 +103,13 @@ activate :livereload
 # Site Settings
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
-set :site_url, 'http://blog.url.com'
-set :site_author, '_AUTHOR_'
-set :site_title, '_TITLE_'
-set :site_description, '_SUBTITLE_'
+set :site_url, 'http://dognews.curation.space'
+set :site_author, 'Cloudburo Curation Team'
+set :site_title, 'Hunde News'
+set :site_description, 'News für Trainer und Halter von Hunden.'
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
-set :theme_name, 'flatly'
+set :theme_name, 'cerulean'
 #set :theme_name, false
 # set @analytics_account, like "XX-12345678-9"
 @analytics_account = false
