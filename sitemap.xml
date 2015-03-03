@@ -25,15 +25,51 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://dognews.curation.space/posts/2015-02-25-sind-waschbaren-wirklich-gefahrliche-hunde-killer.html</loc>
+    <loc>http://dognews.curation.space/2015/02/25/sind-waschbaren-wirklich-gefahrliche-hunde-killer.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/02/27/mit-vierbeinern-dem-schimmel-auf-der-spur.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/tags/deutschland.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://dognews.curation.space/posts/2015-02-27-mit-vierbeinern-dem-schimmel-auf-der-spur.html</loc>
+    <loc>http://dognews.curation.space/tags/wissen.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/02.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/02/27.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/02/25.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
