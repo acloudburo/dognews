@@ -112,7 +112,7 @@ set :site_description, 'News für Trainer und Halter von Hunden.'
 set :theme_name, 'cerulean'
 #set :theme_name, false
 # set @analytics_account, like "XX-12345678-9"
-@analytics_account = false
+@analytics_account = 'UA-35696879-2'
 
 # Asset Settings
 set :css_dir, 'css'
