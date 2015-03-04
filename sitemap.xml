@@ -565,7 +565,55 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2014/09/27/absolventin-des-unilehrgangs-angewandte-kynologie-erhalt-bundestierschutzpreis.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/27/die-beliebtesten-filmhunde.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/09/27/herbstzeit-hund-am-meer-zeit.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/28/der-hund-tut-nix.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/29/achtung-giftig-trauben-sind-fur-hunde-eine-todliche-gefahr.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/29/wandertipps-mit-dem-hund-uber-stock-und-stein.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/30/nordsee-mit-hund-naturnahe-erholung-fur-beide.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/30/so-machen-sie-aus-ihrem-hund-eine-truffel-spurnase.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/30/tierarzt-gibt-tipps-zur-ersten-hilfe-bei-hunden.html</loc>
     <lastmod>2015-03-04</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
@@ -1124,7 +1172,7 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/2014/11/11/im-alter-mit-tieren-leben-nur-mit-hund-charly-ins-pflegeheim.html</loc>
-    <lastmod>2015-03-03</lastmod>
+    <lastmod>2015-03-04</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -2863,6 +2911,24 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2014/09/30.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/29.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/28.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/09/27.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.8</priority>
@@ -3241,6 +3307,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/page/36/</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/tags/schweiz/page/2.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.7</priority>
@@ -3421,6 +3493,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/tags/deutschland/page/24.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/tags/gesundheit/page/2.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.7</priority>
@@ -3452,6 +3530,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/tags/oesterreich/page/3.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/tags/urlaub/page/2.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
@@ -3518,6 +3602,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/tags/wissen/page/8.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/tags/erziehung/page/2.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
@@ -3769,6 +3859,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2014/page/28.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/12/page/2.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.7</priority>
@@ -3908,6 +4004,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/2014/09/page/9.html</loc>
+    <lastmod>2015-03-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2014/09/page/10.html</loc>
     <lastmod>2015-03-03</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
