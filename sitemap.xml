@@ -1597,6 +1597,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/04/sanftmutige-lowen.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/10/28/wandern-mit-hund-kurier-at.html</loc>
     <lastmod>2015-03-04</lastmod>
     <priority>0.7</priority>
