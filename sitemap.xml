@@ -421,6 +421,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/06/sind-kleine-hunde-schlechter-erzogen.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/10/08/untitled.html</loc>
     <lastmod>2015-03-04</lastmod>
     <priority>0.7</priority>
@@ -987,6 +993,12 @@
   <url>
     <loc>http://dognews.curation.space/2014/10/13/hunde-und-menschen-bestehen-gemeinsame-prufung.html</loc>
     <lastmod>2015-03-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/06/hunde-mit-nierenerkrankungen-brauchen-ein-speziell-angepasstes-futter.html</loc>
+    <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -2323,6 +2335,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/06.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2015/03/05.html</loc>
     <lastmod>2015-03-04</lastmod>
     <priority>0.8</priority>
@@ -3356,6 +3374,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/page/36/</loc>
+    <lastmod>2015-03-04</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/page/37/</loc>
     <lastmod>2015-03-04</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
