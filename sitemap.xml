@@ -595,6 +595,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/02/05/grippezeit-trifft-alle-auch-hunde-sind-verschnupft.html</loc>
+    <lastmod>2015-03-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2015/01/15/hilfe-mein-hund-jagt-weshalb-paul-im-wald-an-die-leine-muss.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -2461,6 +2467,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/02/05.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2015/02/03.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.8</priority>
@@ -3596,6 +3608,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/tags/deutschland/page/24.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/tags/deutschland/page/25.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
