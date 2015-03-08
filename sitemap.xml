@@ -1891,6 +1891,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/08/der-knochen-gehort-mir.html</loc>
+    <lastmod>2015-03-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/09/13/hunde-wecker.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -2350,6 +2356,12 @@
     <loc>http://dognews.curation.space/2015/03.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/08.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
