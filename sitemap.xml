@@ -1705,6 +1705,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/10/zwingerhusten-und-katzenschnupfen.html</loc>
+    <lastmod>2015-03-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/11/06/hunde-sind-fur-das-militar-bis-heute-unersetzlich.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -1875,6 +1881,12 @@
   <url>
     <loc>http://dognews.curation.space/2015/01/07/artgerechte-pelztierhaltung-augen-auf-und-mitgefuhl-anschalten-beim-jackenkauf.html</loc>
     <lastmod>2015-03-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/11/hunde-wie-ware-es-mit-einem-halben-hund.html</loc>
+    <lastmod>2015-03-11</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -2386,6 +2398,12 @@
     <loc>http://dognews.curation.space/2015/03.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/11.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -3470,6 +3488,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/page/37/</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/page/38/</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
