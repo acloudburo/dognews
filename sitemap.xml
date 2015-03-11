@@ -2077,6 +2077,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/11/allmend-brunau-hund-beisst-passantin-halterin-streitet-alles-ab.html</loc>
+    <lastmod>2015-03-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/11/05/verhaltensbiologie-ein-perfektes-team.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -3866,6 +3872,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/2015/page/10.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/page/11.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
