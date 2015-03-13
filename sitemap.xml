@@ -1201,6 +1201,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/13/tierhaltung-ist-kein-kinderspiel-fuss-fuss-fuss.html</loc>
+    <lastmod>2015-03-13</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/10/10/wie-sie-sich-vor-dem-fuchsbandwurm-schutzen-gefahr-fuchsbandwurm.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -2440,6 +2446,12 @@
     <loc>http://dognews.curation.space/2015/03.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/13.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
