@@ -2251,6 +2251,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/02/17/hundehaltung-wer-seinen-hund-nicht-kontrolliert-dem-sind-auch-regeln-egal.html</loc>
+    <lastmod>2015-03-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/11/27/fifi-glotze-kommt-das-hunde-tv-bald-in-die-schweiz.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -2546,6 +2552,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/2015/02/18.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/02/17.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
@@ -3560,6 +3572,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/page/38/</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/page/39/</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
