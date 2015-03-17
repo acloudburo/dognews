@@ -1219,6 +1219,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/17/tennisballe-schaden-hundezahnen.html</loc>
+    <lastmod>2015-03-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/11/07/tierische-fotografen.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -2452,6 +2458,12 @@
     <loc>http://dognews.curation.space/2015/03.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/17.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
