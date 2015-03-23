@@ -1267,6 +1267,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/23/zecken-die-gefahr-aus-dem-wald-fruhlingserwachen.html</loc>
+    <lastmod>2015-03-23</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/11/02/tierbesitzer-kaufen-besser-keinen-weihnachtsstern.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -4100,6 +4106,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/2015/page/12.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/page/13.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
