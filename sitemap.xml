@@ -115,6 +115,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/24/rechtliches-darf-auf-nicht-angeleinte-hunde-geschossen-werden.html</loc>
+    <lastmod>2015-03-24</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2015/01/08/zuger-hundehalter.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -183,6 +189,12 @@
   <url>
     <loc>http://dognews.curation.space/2014/09/10/listenhunde-wer-durchfallt-dem-droht-der-tod.html</loc>
     <lastmod>2015-03-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/05/wie-brieftrager-lernen-nicht-zum-beutetier-zu-werden.html</loc>
+    <lastmod>2015-03-24</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -4148,6 +4160,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/2015/03/page/4.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/2015/03/page/5.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
