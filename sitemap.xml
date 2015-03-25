@@ -763,6 +763,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html</loc>
+    <lastmod>2015-03-25</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://dognews.curation.space/2014/09/09/grandioses-teamwork-fur-einen-reifen-kaum-zu-glauben-wie-intelligent-diese-beide.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -4004,6 +4010,12 @@
   </url>
   <url>
     <loc>http://dognews.curation.space/tags/ratgeber/page/6.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dognews.curation.space/tags/ratgeber/page/7.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
