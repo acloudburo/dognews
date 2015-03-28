@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>dognews</title>
-  <subtitle>News rund um den Hund für Hundetrainer und Hundebesitzer</subtitle>
+  <subtitle>News rund um den Hund f?r Hundetrainer und Hundebesitzer</subtitle>
   <id>https://dognews.curation.space/</id>
   <link href="https://dognews.curation.space/"/>
   <link href="https://dognews.curation.space/feed.xml" rel="self"/>
@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://dognews.curation.space/2015/03/27/sharing-economy-das-nachste-riesengeschaft-im-internet-hundesitter.html"/>
     <id>https://dognews.curation.space/2015/03/27/sharing-economy-das-nachste-riesengeschaft-im-internet-hundesitter.html</id>
     <published>2015-03-27T11:04:00Z</published>
-    <updated>2015-03-28T09:38:57+01:00</updated>
+    <updated>2015-03-28T22:58:30+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -31,7 +31,7 @@
     <link rel="alternate" href="https://dognews.curation.space/2015/03/27/tierversicherungsvergleich-schweiz.html"/>
     <id>https://dognews.curation.space/2015/03/27/tierversicherungsvergleich-schweiz.html</id>
     <published>2015-03-27T07:19:46Z</published>
-    <updated>2015-03-28T10:22:01+01:00</updated>
+    <updated>2015-03-28T22:58:30+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -54,8 +54,8 @@
     <title>Gutes Hundefutter: Darauf kommt es an</title>
     <link rel="alternate" href="https://dognews.curation.space/2015/03/27/gutes-hundefutter-darauf-kommt-es-an.html"/>
     <id>https://dognews.curation.space/2015/03/27/gutes-hundefutter-darauf-kommt-es-an.html</id>
-    <published>2015-03-27T05:13:00Z</published>
-    <updated>2015-03-28T18:46:10+01:00</updated>
+    <published>2015-03-27T04:13:00Z</published>
+    <updated>2015-03-28T22:59:00+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -72,7 +72,7 @@
     <link rel="alternate" href="https://dognews.curation.space/2015/03/25/mehr-abstand-bitte-ein-gelber-hund-braucht-freiraum.html"/>
     <id>https://dognews.curation.space/2015/03/25/mehr-abstand-bitte-ein-gelber-hund-braucht-freiraum.html</id>
     <published>2015-03-25T08:38:00Z</published>
-    <updated>2015-03-28T09:38:57+01:00</updated>
+    <updated>2015-03-28T22:58:30+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -89,7 +89,7 @@
     <link rel="alternate" href="https://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html"/>
     <id>https://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html</id>
     <published>2015-03-25T04:15:00Z</published>
-    <updated>2015-03-28T09:38:57+01:00</updated>
+    <updated>2015-03-28T22:58:30+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -106,7 +106,7 @@
     <link rel="alternate" href="https://dognews.curation.space/2015/03/24/umfrage-welche-versicherungen-fur-den-hund.html"/>
     <id>https://dognews.curation.space/2015/03/24/umfrage-welche-versicherungen-fur-den-hund.html</id>
     <published>2015-03-24T11:38:36Z</published>
-    <updated>2015-03-28T09:38:57+01:00</updated>
+    <updated>2015-03-28T22:58:30+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
