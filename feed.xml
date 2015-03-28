@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hunde News</title>
-  <subtitle>News für Trainer und Halter von Hunden.</subtitle>
-  <id>http://dognews.curation.space</id>
-  <link href="http://dognews.curation.space"/>
-  <link href="http://dognews.curation.space/feed.xml" rel="self"/>
+  <title>dognews</title>
+  <subtitle>News rund um den Hund für Hundetrainer und Hundebesitzer</subtitle>
+  <id>https://dognews.curation.space/</id>
+  <link href="https://dognews.curation.space/"/>
+  <link href="https://dognews.curation.space/feed.xml" rel="self"/>
   <updated>2015-03-27T11:04:00Z</updated>
   <author>
-    <name>Cloudburo Curation Team</name>
+    <name>dognews</name>
   </author>
   <entry>
     <title>Sharing Economy: Das nächste Riesengeschäft im Internet: Hundesitter!</title>
-    <link rel="alternate" href="http://dognews.curation.space/2015/03/27/sharing-economy-das-nachste-riesengeschaft-im-internet-hundesitter.html"/>
-    <id>http://dognews.curation.space/2015/03/27/sharing-economy-das-nachste-riesengeschaft-im-internet-hundesitter.html</id>
+    <link rel="alternate" href="https://dognews.curation.space/2015/03/27/sharing-economy-das-nachste-riesengeschaft-im-internet-hundesitter.html"/>
+    <id>https://dognews.curation.space/2015/03/27/sharing-economy-das-nachste-riesengeschaft-im-internet-hundesitter.html</id>
     <published>2015-03-27T11:04:00Z</published>
-    <updated>2015-03-27T12:05:38+00:00</updated>
+    <updated>2015-03-28T09:38:57+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -28,10 +28,10 @@
   </entry>
   <entry>
     <title>Tierversicherungsvergleich Schweiz</title>
-    <link rel="alternate" href="http://dognews.curation.space/2015/03/27/tierversicherungsvergleich-schweiz.html"/>
-    <id>http://dognews.curation.space/2015/03/27/tierversicherungsvergleich-schweiz.html</id>
-    <published>2015-03-27T06:19:46Z</published>
-    <updated>2015-03-27T18:30:07+00:00</updated>
+    <link rel="alternate" href="https://dognews.curation.space/2015/03/27/tierversicherungsvergleich-schweiz.html"/>
+    <id>https://dognews.curation.space/2015/03/27/tierversicherungsvergleich-schweiz.html</id>
+    <published>2015-03-27T07:19:46Z</published>
+    <updated>2015-03-28T10:22:01+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -40,7 +40,7 @@
     &lt;p&gt;&lt;dummy&gt;      &lt;body&gt;
       Neben Comparis bietet auch moneyland.ch einen umfassenden Tierversicherungs-Rechner für die Schweiz an. 
      &lt;br&gt; 
-     &lt;i&gt;&lt;span style=""&gt;Aus einer Vielzahl unterschiedlicher&amp;nbsp;&lt;/span&gt;&lt;a href="http://www.moneyland.ch/de/franchise-definition" style="color: rgb(66, 179, 213); text-decoration: none;" rel="nofollow"&gt;Franchisen&lt;/a&gt;&lt;span style=""&gt;- und Deckungsvarianten berechnet er automatisch für die geschätzte Höhe der Tierarztkosten, das Tieralter und den gesuchten Versicherungstyp (Krankheit und Unfall) die beste Variante.&lt;/span&gt;&lt;/i&gt; 
+     &lt;i&gt;&lt;span style=""&gt;Aus einer Vielzahl unterschiedlicher Franchisen&lt;/span&gt; &lt;span style=""&gt;und Deckungsvarianten berechnet er automatisch für die geschätzte Höhe der Tierarztkosten, das Tieralter und den gesuchten Versicherungstyp (Krankheit und Unfall) die beste Variante.&lt;/span&gt;&lt;/i&gt; 
      &lt;i&gt;Gleichzeitig zeigt der Tierversicherungsvergleich an, ob sich die günstigste Versicherungsvariante auch wirklich für den Versicherungskäufer lohnt.&lt;/i&gt; 
      &lt;br&gt; 
      &lt;br&gt; &amp;nbsp;&lt;br&gt;
@@ -52,10 +52,10 @@
   </entry>
   <entry>
     <title>Gutes Hundefutter: Darauf kommt es an</title>
-    <link rel="alternate" href="http://dognews.curation.space/2015/03/27/gutes-hundefutter-darauf-kommt-es-an.html"/>
-    <id>http://dognews.curation.space/2015/03/27/gutes-hundefutter-darauf-kommt-es-an.html</id>
-    <published>2015-03-27T04:13:00Z</published>
-    <updated>2015-03-27T16:19:08+00:00</updated>
+    <link rel="alternate" href="https://dognews.curation.space/2015/03/27/gutes-hundefutter-darauf-kommt-es-an.html"/>
+    <id>https://dognews.curation.space/2015/03/27/gutes-hundefutter-darauf-kommt-es-an.html</id>
+    <published>2015-03-27T05:13:00Z</published>
+    <updated>2015-03-28T11:50:56+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -69,10 +69,10 @@
   </entry>
   <entry>
     <title>Mehr Abstand bitte - Ein 'Gelber Hund' braucht Freiraum</title>
-    <link rel="alternate" href="http://dognews.curation.space/2015/03/25/mehr-abstand-bitte-ein-gelber-hund-braucht-freiraum.html"/>
-    <id>http://dognews.curation.space/2015/03/25/mehr-abstand-bitte-ein-gelber-hund-braucht-freiraum.html</id>
+    <link rel="alternate" href="https://dognews.curation.space/2015/03/25/mehr-abstand-bitte-ein-gelber-hund-braucht-freiraum.html"/>
+    <id>https://dognews.curation.space/2015/03/25/mehr-abstand-bitte-ein-gelber-hund-braucht-freiraum.html</id>
     <published>2015-03-25T08:38:00Z</published>
-    <updated>2015-03-25T08:46:32+00:00</updated>
+    <updated>2015-03-28T09:38:57+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -86,10 +86,10 @@
   </entry>
   <entry>
     <title>Hund und Katze versichern</title>
-    <link rel="alternate" href="http://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html"/>
-    <id>http://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html</id>
+    <link rel="alternate" href="https://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html"/>
+    <id>https://dognews.curation.space/2015/03/25/hund-und-katze-versichern.html</id>
     <published>2015-03-25T04:15:00Z</published>
-    <updated>2015-03-25T16:24:24+00:00</updated>
+    <updated>2015-03-28T09:38:57+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -103,10 +103,10 @@
   </entry>
   <entry>
     <title>Umfrage: Welche Versicherungen für den Hund?</title>
-    <link rel="alternate" href="http://dognews.curation.space/2015/03/24/umfrage-welche-versicherungen-fur-den-hund.html"/>
-    <id>http://dognews.curation.space/2015/03/24/umfrage-welche-versicherungen-fur-den-hund.html</id>
+    <link rel="alternate" href="https://dognews.curation.space/2015/03/24/umfrage-welche-versicherungen-fur-den-hund.html"/>
+    <id>https://dognews.curation.space/2015/03/24/umfrage-welche-versicherungen-fur-den-hund.html</id>
     <published>2015-03-24T11:38:36Z</published>
-    <updated>2015-03-24T17:54:16+00:00</updated>
+    <updated>2015-03-28T09:38:57+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>

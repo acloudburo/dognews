@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://dognews.curation.space/sitemap.xml
+Sitemap: https://dognews.curation.space//sitemap.xml
