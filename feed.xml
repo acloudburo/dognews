@@ -61,6 +61,172 @@
 &lt;/div&gt;</content>
   </entry>
   <entry>
+    <title>Code Syntax Highlighting</title>
+    <link rel="alternate" href="https://dognews.curation.space/2015/04/06/code-syntax-highlighting.html"/>
+    <id>https://dognews.curation.space/2015/04/06/code-syntax-highlighting.html</id>
+    <published>2015-04-06T09:23:18Z</published>
+    <updated>2015-04-07T17:48:46+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;dummy&gt;      &lt;body&gt;
+      This note show some examples for Code Highlighting&amp;nbsp;in the Cloudburo&amp;nbsp; 
+     &lt;a href="http://cloudburo.net" rel="nofollow"&gt;Curation&lt;/a&gt; Platform. 
+     &lt;br&gt; The support in Evernote is very limited when it comes to Code Samples. The Curation Platform tries it best to convert the note code samples into meaningful and nicely highlighted text. 
+     &lt;br&gt; 
+     &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt; 
+     &lt;u&gt;&lt;b&gt;First Test: Ruby&lt;/b&gt;&lt;/u&gt; 
+     &lt;br&gt; &amp;lt;code&amp;gt; ruby &amp;nbsp; helpers do &amp;nbsp; &amp;nbsp;def table_of_contents(resource) &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;content = File.read(resource.source_file) &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;toc_renderer = Redcarpet::Render::HTML_TOC.new &amp;nbsp; &amp;nbsp; &amp;nbsp; markdown = Redcarpet::Markdown.new(toc_renderer, nesting_level: 2) &amp;nbsp; &amp;nbsp; &amp;nbsp; # nesting_level is optional &amp;nbsp; &amp;nbsp; &amp;nbsp; markdown.render(content) &amp;nbsp; end end &amp;lt;/code&amp;gt; 
+     &lt;br&gt; 
+     &lt;u&gt;&lt;b&gt;Second Test: Java&lt;/b&gt;&lt;/u&gt; 
+     &lt;br&gt; &amp;lt;code&amp;gt; java 
+     &lt;span style=""&gt;protected&lt;/span&gt; 
+     &lt;span style=""&gt;void&lt;/span&gt; 
+     &lt;span style=""&gt;processExtractMedia(org.jsoup.nodes.Document&lt;/span&gt; 
+     &lt;span style=""&gt;doc&lt;/span&gt; 
+     &lt;span style=""&gt;, String&lt;/span&gt; 
+     &lt;span style=""&gt;prependSpaces&lt;/span&gt; 
+     &lt;span style=""&gt;, String&lt;/span&gt; 
+     &lt;span style=""&gt;mime&lt;/span&gt; 
+     &lt;span style=""&gt;,&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;String &lt;span style=""&gt;noteGuid&lt;/span&gt;&lt;span style=""&gt;)&lt;/span&gt; &lt;span style=""&gt;throws&lt;/span&gt; Exception {&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; Elements&lt;/span&gt; 
+     &lt;span style=""&gt;elems&lt;/span&gt; 
+     &lt;span style=""&gt;=&lt;/span&gt; 
+     &lt;span style=""&gt;doc&lt;/span&gt; 
+     &lt;span style=""&gt;.select(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;en-media[type$=&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;mime&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;]&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;&lt;span style="font-size: 11px;"&gt;);&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; Iterator&amp;lt;Element&amp;gt;&lt;/span&gt; 
+     &lt;span style=""&gt;it&lt;/span&gt; 
+     &lt;span style=""&gt;=&lt;/span&gt; 
+     &lt;span style=""&gt;elems&lt;/span&gt; 
+     &lt;span style=""&gt;.iterator();&lt;br&gt; &amp;nbsp;&lt;/span&gt; 
+     &lt;span style=""&gt;while&lt;/span&gt; 
+     &lt;span style=""&gt;(&lt;/span&gt; 
+     &lt;span style=""&gt;it&lt;/span&gt; 
+     &lt;span style=""&gt;.hasNext()) {&lt;br&gt; &amp;nbsp; Element&lt;/span&gt; 
+     &lt;span style=""&gt;elem&lt;/span&gt; 
+     &lt;span style=""&gt;=&lt;/span&gt; 
+     &lt;span style=""&gt;it&lt;/span&gt; 
+     &lt;span style=""&gt;.next();&lt;br&gt; &amp;nbsp; String&lt;/span&gt; 
+     &lt;span style=""&gt;hash&lt;/span&gt; 
+     &lt;span style=""&gt;=&lt;/span&gt; 
+     &lt;span style=""&gt;elem&lt;/span&gt; 
+     &lt;span style=""&gt;.attr(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;hash&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;);&lt;br&gt; &amp;nbsp; String&lt;/span&gt; 
+     &lt;span style=""&gt;img&lt;/span&gt; 
+     &lt;span style=""&gt;=&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo; imgx111_&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;hash&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;.&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;mime&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo; &amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;;&lt;br&gt; &amp;nbsp;&lt;/span&gt; 
+     &lt;span style=""&gt;logger&lt;/span&gt; 
+     &lt;span style=""&gt;.debug(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;Extend en-note with image tag &amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;+&lt;/span&gt; 
+     &lt;span style=""&gt;img&lt;/span&gt; 
+     &lt;span style=""&gt;);&lt;br&gt; &amp;nbsp;&lt;/span&gt; 
+     &lt;span style=""&gt;elem&lt;/span&gt; 
+     &lt;span style=""&gt;.prepend(&lt;/span&gt; 
+     &lt;span style=""&gt;img&lt;/span&gt; 
+     &lt;span style=""&gt;);&lt;br&gt; &amp;nbsp; Resource&lt;/span&gt; 
+     &lt;span style=""&gt;res&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; =&lt;/span&gt; 
+     &lt;span style=""&gt;noteStore&lt;/span&gt; 
+     &lt;span style=""&gt;.getResourceByHash(&lt;/span&gt; 
+     &lt;span style=""&gt;noteGuid&lt;/span&gt; 
+     &lt;span style=""&gt;, hexStringToByteArray(&lt;/span&gt; 
+     &lt;span style=""&gt;hash&lt;/span&gt; 
+     &lt;span style=""&gt;),&lt;/span&gt; 
+     &lt;span style=""&gt;true&lt;/span&gt; 
+     &lt;span style=""&gt;,&lt;/span&gt; 
+     &lt;span style=""&gt;false&lt;/span&gt; 
+     &lt;span style=""&gt;,&lt;/span&gt; 
+     &lt;span style=""&gt;false&lt;/span&gt; 
+     &lt;span style=""&gt;);&lt;br&gt; &amp;nbsp; extractMediaResource(&lt;/span&gt; 
+     &lt;span style=""&gt;res&lt;/span&gt; 
+     &lt;span style=""&gt;,&lt;/span&gt; 
+     &lt;span style=""&gt;imageDirectory&lt;/span&gt; 
+     &lt;span style=""&gt;,&amp;nbsp;&lt;/span&gt; 
+     &lt;span style=""&gt;hash&lt;/span&gt; 
+     &lt;span style=""&gt;);&lt;br&gt; &amp;nbsp; }&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;}&lt;/span&gt;&lt;/span&gt; &amp;lt;/code&amp;gt; 
+     &lt;br&gt; 
+     &lt;u&gt;&lt;b&gt;Third Test: Groovy&lt;/b&gt;&lt;/u&gt; 
+     &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt; &amp;lt;code&amp;gt; groovy 
+     &lt;span style=""&gt;private&lt;/span&gt; 
+     &lt;span style=""&gt;&lt;span style="font-size: 11px;"&gt;String generateOtherMenuDataFile(ConfigObject config, String blogId, String dataDir, EvernoteBlogPostGenerator gen) {&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp;&amp;nbsp;String dataFile =&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;${dataDir}/otherMenu.yml&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; StringBuffer dataContent =&lt;/span&gt; 
+     &lt;span style=""&gt;new&lt;/span&gt; 
+     &lt;span style=""&gt;StringBuffer(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;&amp;mdash;\n&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;)&lt;br&gt; &amp;nbsp; File dataFi =&lt;/span&gt; 
+     &lt;span style=""&gt;new&lt;/span&gt; 
+     &lt;span style=""&gt;File(dataFile)&lt;br&gt; &amp;nbsp; ConfigObject blogObj = config.get(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;blogInfo&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;&lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;).&lt;u&gt;get&lt;/u&gt;(blogId)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;&amp;nbsp; String[] menu =&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;new&lt;/span&gt; 
+     &lt;span style=""&gt;String[&lt;/span&gt; 
+     &lt;span style=""&gt;1&lt;/span&gt; 
+     &lt;span style=""&gt;]&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;&amp;nbsp; String[] name =&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;new&lt;/span&gt; 
+     &lt;span style=""&gt;String[&lt;/span&gt; 
+     &lt;span style=""&gt;1&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;]&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; blogObj.get(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;otherMenu&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;).&lt;u&gt;keySet&lt;/u&gt;().each { key -&amp;gt;&lt;br&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; &amp;nbsp; // &lt;u&gt;def&lt;/u&gt; flag = blogObj.get(&amp;ldquo;otherMenu&amp;rdquo;).get(key);&lt;/span&gt; 
+     &lt;span style=""&gt;&lt;br&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; &amp;nbsp; //&lt;u&gt;def&lt;/u&gt; keyL = key.toLowerCase().trim().replaceAll(&amp;ldquo;\W+&amp;rdquo;, &amp;ldquo;&amp;rdquo;)&lt;/span&gt; 
+     &lt;span style=""&gt;&lt;br&gt; &amp;nbsp; &amp;nbsp; menu[&lt;/span&gt; 
+     &lt;span style=""&gt;0&lt;/span&gt; 
+     &lt;span style=""&gt;] =&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;clb-&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;+key&lt;br&gt; &amp;nbsp; &amp;nbsp; name[&lt;/span&gt; 
+     &lt;span style=""&gt;0&lt;/span&gt; 
+     &lt;span style=""&gt;] = blogObj.get(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;otherMenu&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;).&lt;u&gt;get&lt;/u&gt;(key);&lt;br&gt; &amp;nbsp; &amp;nbsp; dataContent.append(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;-\n&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;);&lt;br&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; &amp;nbsp; logger&lt;/span&gt; 
+     &lt;span style=""&gt;.debug(&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;ldquo;Adding other menu name ${name[0]}&amp;rdquo;&lt;/span&gt; 
+     &lt;span style=""&gt;)&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;&amp;nbsp; &amp;nbsp; dataContent.append(&lt;span style=""&gt;&amp;ldquo;&amp;nbsp;&amp;nbsp;&amp;nbsp; name: ${name[0]}\n&amp;rdquo;&lt;/span&gt;&lt;span style=""&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;&amp;nbsp; &amp;nbsp; dataContent.append(&lt;span style=""&gt;&amp;ldquo;&amp;nbsp;&amp;nbsp;&amp;nbsp; url: ${key}.html\n&amp;rdquo;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; &amp;nbsp; gen.checkAndCreateTaggedNotes(menu, name)&lt;br&gt; &amp;nbsp; }&lt;br&gt; &amp;nbsp; dataFi.write(dataContent.toString(),&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;lsquo;UTF8&amp;rsquo;&lt;/span&gt; 
+     &lt;span style=""&gt;)&lt;br&gt;&lt;/span&gt; 
+     &lt;span style=""&gt;&amp;nbsp; return&lt;/span&gt; 
+     &lt;span style=""&gt;dataContent.toString();&lt;/span&gt; 
+     &lt;span style="font-size: 11px;"&gt;&lt;span style=""&gt;}&lt;/span&gt;&lt;/span&gt; &amp;lt;/code&amp;gt; 
+     &lt;br&gt;&lt;br&gt;
+    &lt;/body&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
     <title>Fit mit Hund: Abspeckprogramm für Hund und Herrchen</title>
     <link rel="alternate" href="https://dognews.curation.space/2015/04/02/fit-mit-hund-abspeckprogramm-fur-hund-und-herrchen.html"/>
     <id>https://dognews.curation.space/2015/04/02/fit-mit-hund-abspeckprogramm-fur-hund-und-herrchen.html</id>
@@ -91,23 +257,6 @@
     &lt;p&gt;&lt;dummy&gt;      Hier sind Hunde nicht nur willkommen, sondern es wird alles aufgeboten, damit sie sich rundum wohlfühlen, einschließlich Hundeschule und Agility. Auf dem Hundestrand „La Spiaggia di Pluto” wird das entspannte Ferienvergnügen absolut „dog friendly“
     Auf dem Hundestrand „La Spiaggia di Pluto” wird das entspannte Ferienvergnügen absolut „dog friendly“
     &lt;a href="http://www.kleinezeitung.at/s/lebensart/reise/bibione/4694805/Ferien-mit-dem-besten-Freund-des-Menschen?_vl_backlink=/smartphone/s/index.do"&gt;Link&lt;/a&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Viersen: Schnüffler arbeiten am Gymnasium</title>
-    <link rel="alternate" href="https://dognews.curation.space/2015/03/31/viersen-schnuffler-arbeiten-am-gymnasium.html"/>
-    <id>https://dognews.curation.space/2015/03/31/viersen-schnuffler-arbeiten-am-gymnasium.html</id>
-    <published>2015-03-31T10:33:00Z</published>
-    <updated>2015-04-07T07:06:54+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;dummy&gt;      Wenn Menschen vermisst werden, werden oft Mantrailing-Hunde eingesetzt. Die Spürnasen folgen der Fährte des Menschen, um ihn aufzustöbern. Das Clara-Schumann-Gymnasium war Übungsgebäude für die Mantrailing-Hunde.
-    &lt;a href="http://www.rp-online.de/nrw/staedte/viersen/schnueffler-arbeiten-am-gymnasium-aid-1.4976937"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>
