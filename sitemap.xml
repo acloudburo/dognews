@@ -2371,6 +2371,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/08/tiere-fraulein-sitz-zu-besuch-bei-einer-tierzeichnerin.html</loc>
+    <lastmod>2015-04-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/11/20/hundetipp-des-monats-gesund-und-fit-durch-den-november.html</loc>
     <lastmod>2015-04-07</lastmod>
     <priority>0.7</priority>
@@ -2704,6 +2710,12 @@
     <loc>https://dognews.curation.space//2015/04.html</loc>
     <lastmod>2015-04-07</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/04/08.html</loc>
+    <lastmod>2015-04-07</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
