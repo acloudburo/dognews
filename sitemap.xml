@@ -1003,6 +1003,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/10/und-immer-der-nase-nach.html</loc>
+    <lastmod>2015-04-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/03/01/angeleint-trifft-frei-laufend-leinen-los-oder-nicht-so-vermeiden-sie-den-hundeka.html</loc>
     <lastmod>2015-04-07</lastmod>
     <priority>0.7</priority>
@@ -2743,6 +2749,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/10.html</loc>
+    <lastmod>2015-04-07</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/04/09.html</loc>
     <lastmod>2015-04-07</lastmod>
     <priority>0.8</priority>
@@ -4430,6 +4442,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/15.html</loc>
+    <lastmod>2015-04-07</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/16.html</loc>
     <lastmod>2015-04-07</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
