@@ -1297,6 +1297,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/14/1-internationaler-hundetrainerkongress-in-berlin.html</loc>
+    <lastmod>2015-04-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/10/08/untitled.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.7</priority>
@@ -2738,6 +2744,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/herdenhunde.html</loc>
+    <lastmod>2015-04-10</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/veranstaltung.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
