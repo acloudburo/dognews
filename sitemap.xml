@@ -247,6 +247,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/17/schau-mir-in-die-augen-wie-der-hund-der-beste-freund-des-menschen-wurde.html</loc>
+    <lastmod>2015-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/03/10/zwingerhusten-und-katzenschnupfen.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.7</priority>
@@ -2797,6 +2803,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/17.html</loc>
+    <lastmod>2015-04-10</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/04/15.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.8</priority>
@@ -4526,6 +4538,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/04/page/2.html</loc>
+    <lastmod>2015-04-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/04/page/3.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
