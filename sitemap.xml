@@ -1471,6 +1471,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/04/17/gelenkserkrankungen-bei-hunden.html</loc>
+    <lastmod>2015-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/17/hunde-werden-im-freibad-eschbachtal-zu-wasserratten.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.7</priority>
@@ -4538,6 +4544,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/16.html</loc>
+    <lastmod>2015-04-10</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/17.html</loc>
     <lastmod>2015-04-10</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
