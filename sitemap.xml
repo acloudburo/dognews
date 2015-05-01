@@ -121,6 +121,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/01/tipps-und-tricks-fur-die-erziehung-deines-hundes.html</loc>
+    <lastmod>2015-05-01</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/10/07/grokatzenforschung-indische-leoparden-sind-ausgesprochene-hundefreunde.html</loc>
     <lastmod>2015-04-27</lastmod>
     <priority>0.7</priority>
@@ -2917,6 +2923,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//tags/kinder.html</loc>
+    <lastmod>2015-04-27</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//tags/erziehung.html</loc>
     <lastmod>2015-04-27</lastmod>
     <priority>0.9</priority>
@@ -2948,12 +2960,6 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/wandern.html</loc>
-    <lastmod>2015-04-27</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://dognews.curation.space//tags/kinder.html</loc>
     <lastmod>2015-04-27</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -4532,6 +4538,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/deutschland/page/30.html</loc>
+    <lastmod>2015-04-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/deutschland/page/31.html</loc>
     <lastmod>2015-04-27</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
