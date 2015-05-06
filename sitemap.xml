@@ -2371,6 +2371,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/06/was-sie-bei-der-hundeerziehung-beachten-sollten.html</loc>
+    <lastmod>2015-05-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/03/20/dramatische-hunde-rettung-terrier-bandit-steckte-stundenlang-in-diesem-loch.html</loc>
     <lastmod>2015-05-01</lastmod>
     <priority>0.7</priority>
@@ -3058,6 +3064,12 @@
     <loc>https://dognews.curation.space//2015/05.html</loc>
     <lastmod>2015-05-01</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/05/06.html</loc>
+    <lastmod>2015-05-01</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
