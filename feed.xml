@@ -5,10 +5,27 @@
   <id>https://dognews.curation.space/</id>
   <link href="https://dognews.curation.space/"/>
   <link href="https://dognews.curation.space/feed.xml" rel="self"/>
-  <updated>2015-05-11T09:10:39Z</updated>
+  <updated>2015-05-11T10:03:33Z</updated>
   <author>
     <name>dognews</name>
   </author>
+  <entry>
+    <title>Flexileinen</title>
+    <link rel="alternate" href="https://dognews.curation.space/2015/05/11/flexileinen.html"/>
+    <id>https://dognews.curation.space/2015/05/11/flexileinen.html</id>
+    <published>2015-05-11T10:03:33Z</published>
+    <updated>2015-05-11T10:03:33+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;      Ich mag Flexileinen nicht, die bei mir nur Kaugummileinen heißen. Als ich mir Notizen für diesen Artikel machte, ging es mir dabei vor allem darum, dass die Hunde das Falsche lernen.
+    &lt;a href="http://markertraining.de/flexileinen/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Best of Berlin: Auf den Hund gekommen</title>
     <link rel="alternate" href="https://dognews.curation.space/2015/05/11/best-of-berlin-auf-den-hund-gekommen.html"/>
@@ -90,23 +107,6 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;      Sie sind Therapeuten, Assistenten, und sie erhellen den tristen Alltag mancher einsamer Menschen. Die allermeisten von ihnen sind wohlerzogen, und Frauchen oder Herrchen räumt auch immer brav ihre Geschäftchen weg. Kurz: Hunde tun Menschen und Gesellschaft gut – und zählen dennoch zu den am meisten gehassten Haustieren. Warum das so ist, darüber kann die dreifache „Hundemama“ Ruth Lindenthal nur spekulieren. Für sie steht fest: Hunde sind die besseren Menschen.
     &lt;a href="http://www.stuttgarter-wochenblatt.de/inhalt.botnang-hunde-sind-die-besseren-menschen.9004827a-8c27-4118-a696-1a090ef9579f.html"&gt;Link&lt;/a&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Von Hundeleben, Rehkitzen und Pferdegeduld</title>
-    <link rel="alternate" href="https://dognews.curation.space/2015/05/07/von-hundeleben-rehkitzen-und-pferdegeduld.html"/>
-    <id>https://dognews.curation.space/2015/05/07/von-hundeleben-rehkitzen-und-pferdegeduld.html</id>
-    <published>2015-05-07T09:04:38Z</published>
-    <updated>2015-05-07T09:04:39+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;      Die Veterinärmedizinische Uni Wien wird 250 Jahre alt. Seit damals hat sich in der Beziehung Tier-Mensch viel getan. Das zeigt sich auch an der Vielfalt der einschlägigen akademischen Weiterbildungslehrgänge.
-    &lt;a href="http://diepresse.com/home/bildung/weiterbildung/4695858/Von-Hundeleben-Rehkitzen-und-Pferdegeduld"&gt;Link&lt;/a&gt;&lt;/p&gt;
     
   &lt;/div&gt;
 &lt;/div&gt;</content>

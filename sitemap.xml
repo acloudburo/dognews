@@ -547,6 +547,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/11/flexileinen.html</loc>
+    <lastmod>2015-05-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/10/04/video-wettbewerb-in-kalifornien-hunde-jagen-die-perfekte-welle.html</loc>
     <lastmod>2015-05-01</lastmod>
     <priority>0.7</priority>
@@ -4711,6 +4717,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//tags/deutschland/page/32.html</loc>
+    <lastmod>2015-05-01</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//tags/wissen/page/2.html</loc>
     <lastmod>2015-05-01</lastmod>
     <priority>0.7</priority>
@@ -5048,6 +5060,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/21.html</loc>
+    <lastmod>2015-05-01</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/22.html</loc>
     <lastmod>2015-05-01</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
