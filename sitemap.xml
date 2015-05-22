@@ -2575,6 +2575,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/22/wenn-hunde-nicht-wissen-wie-gro-sie-sind.html</loc>
+    <lastmod>2015-05-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/01/14/auch-ein-kleiner-hund-kann-storen.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -5264,6 +5270,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/05/page/4.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/05/page/5.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
