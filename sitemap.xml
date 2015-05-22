@@ -97,6 +97,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/22/gewitter-im-gehirn-epilepsie-beim-hund.html</loc>
+    <lastmod>2015-05-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/25/krank-durch-haustiere-die-wichtigsten-infektionen-im-uberblick.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -3217,6 +3223,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/22.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/05/21.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.8</priority>
@@ -4664,6 +4676,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/50/</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/51/</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
