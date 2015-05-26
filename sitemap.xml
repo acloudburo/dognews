@@ -673,6 +673,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/26/miethunde-zum-kuscheln-und-liebhaben.html</loc>
+    <lastmod>2015-05-26</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/02/10/geduld-und-konsequenz.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -3253,6 +3259,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/26.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/05/25.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.8</priority>
@@ -5138,6 +5150,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/kurioses/page/2.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/kurioses/page/3.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
