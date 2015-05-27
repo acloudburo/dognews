@@ -2251,6 +2251,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/27/flughafen-scannen-jetzt-auch-hund-katz-co.html</loc>
+    <lastmod>2015-05-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/18/die-schattenseite-von-hunden-in-spanien.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -3268,6 +3274,12 @@
     <loc>https://dognews.curation.space//2015/05.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/05/27.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
