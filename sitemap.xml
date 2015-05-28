@@ -937,6 +937,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/28/huckepack-mann-fahrt-mit-hund-auf-dem-rucken-durch-zurich.html</loc>
+    <lastmod>2015-05-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/12/bosniens-minenspurhunde-leben-retten-mit-feiner-nase-international-nachrichten.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -3289,6 +3295,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/28.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/05/27.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.8</priority>
@@ -4993,6 +5005,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//tags/freizeit/page/5.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//tags/gesundheit/page/2.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -5384,6 +5402,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/05/page/5.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/05/page/6.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
