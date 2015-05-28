@@ -1105,6 +1105,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/05/28/wandern-mit-dem-besten-freund-des-menschen.html</loc>
+    <lastmod>2015-05-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/01/21/motorola-scout-5000-fit-wie-fiffi-motorola-zeigt-erstes-fitnesshalsband-fur-hund.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.7</priority>
@@ -5378,6 +5384,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/24.html</loc>
+    <lastmod>2015-05-14</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/25.html</loc>
     <lastmod>2015-05-14</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
