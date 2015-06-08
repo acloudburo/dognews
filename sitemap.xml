@@ -793,6 +793,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/06/08/was-tun-wenn-der-hund-stirbt.html</loc>
+    <lastmod>2015-06-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/20/auch-hunde-konnen-pessimisten-sein.html</loc>
     <lastmod>2015-06-07</lastmod>
     <priority>0.7</priority>
@@ -5630,6 +5636,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/06/page/2.html</loc>
+    <lastmod>2015-06-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/06/page/3.html</loc>
     <lastmod>2015-06-07</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
