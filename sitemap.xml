@@ -2725,6 +2725,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/06/08/einsatz-im-krieg-funf-beruhmte-hunde-der-militargeschichte.html</loc>
+    <lastmod>2015-06-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/03/bunte-unikate-fur-modische-vierbeiner.html</loc>
     <lastmod>2015-06-07</lastmod>
     <priority>0.7</priority>
@@ -5378,6 +5384,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/wissen/page/12.html</loc>
+    <lastmod>2015-06-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/wissen/page/13.html</loc>
     <lastmod>2015-06-07</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
