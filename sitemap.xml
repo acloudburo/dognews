@@ -1471,6 +1471,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/06/08/unterwegs-mit-dem-hund.html</loc>
+    <lastmod>2015-06-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/12/05/pip-winziger-gps-tracker-mit-langer-akku-kapazitat-fur-hund-und-katze.html</loc>
     <lastmod>2015-06-07</lastmod>
     <priority>0.7</priority>
@@ -5006,6 +5012,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/54/</loc>
+    <lastmod>2015-06-07</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/55/</loc>
     <lastmod>2015-06-07</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
