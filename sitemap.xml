@@ -49,6 +49,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/06/11/was-hundehalter-gegen-grasmilben-tun-konnen.html</loc>
+    <lastmod>2015-06-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/06/11/warten-an-der-futterschussel.html</loc>
     <lastmod>2015-06-11</lastmod>
     <priority>0.7</priority>
@@ -5299,6 +5305,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//tags/deutschland/page/36.html</loc>
+    <lastmod>2015-06-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//tags/erziehung/page/2.html</loc>
     <lastmod>2015-06-10</lastmod>
     <priority>0.7</priority>
@@ -5672,6 +5684,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/27.html</loc>
+    <lastmod>2015-06-10</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/28.html</loc>
     <lastmod>2015-06-10</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
