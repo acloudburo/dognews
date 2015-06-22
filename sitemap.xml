@@ -2725,6 +2725,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/06/22/hunde-ausleihen-und-gleichzeitig-hundebesitzer-entlasten.html</loc>
+    <lastmod>2015-06-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/11/09/handy-apps-und-social-media-werben-fur-private-tiersitter.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -5186,6 +5192,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/56/</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/57/</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
