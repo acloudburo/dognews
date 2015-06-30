@@ -2785,6 +2785,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/06/30/hund-in-der-hitzefalle-bello-nicht-im-auto-lassen.html</loc>
+    <lastmod>2015-06-30</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/10/01/hunde-als-accessoire-flirtfaktor-kinderersatz.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -5984,6 +5990,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/30.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/31.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
