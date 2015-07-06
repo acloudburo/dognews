@@ -3247,6 +3247,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/06/hunde-sind-mein-thema.html</loc>
+    <lastmod>2015-07-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/10/28/von-spaziergang-bis-klettertour-das-durfen-sie-auf-klettertouren-nicht-vergessen.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -6118,6 +6124,12 @@
     <loc>https://dognews.curation.space//2015/page/32.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/07/page/2.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
