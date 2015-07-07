@@ -2653,6 +2653,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/07/wenig-regeln-fur-hunde-im-kanton-zug.html</loc>
+    <lastmod>2015-07-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/03/19/das-vernetzte-haustier-apps-furs-hund-katze-und-co.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -5852,6 +5858,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/gesetz/page/2.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/gesetz/page/3.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
