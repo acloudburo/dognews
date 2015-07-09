@@ -1699,6 +1699,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/09/heimtierausweis-pet-passport.html</loc>
+    <lastmod>2015-07-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/03/25/bellen-im-dialekt.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -3757,6 +3763,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/09.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/07/08.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
@@ -5450,6 +5462,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/59/</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/60/</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
