@@ -949,6 +949,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/10/ein-leben-fur-die-fellnasen.html</loc>
+    <lastmod>2015-07-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/11/so-ziehen-sie-einen-gesunden-hund-auf.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -6218,6 +6224,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/32.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/33.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
