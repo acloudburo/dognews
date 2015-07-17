@@ -2095,6 +2095,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/17/nepal-machts-vor-tihar-das-hundefestival-der-anderen-art.html</loc>
+    <lastmod>2015-07-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/19/hund-nagt-an-pfote-herbstmilbe-kann-schuld-sein.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -5869,6 +5875,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//tags/deutschland/page/40.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//tags/wissen/page/2.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.7</priority>
@@ -6320,6 +6332,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/33.html</loc>
+    <lastmod>2015-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/34.html</loc>
     <lastmod>2015-06-17</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
