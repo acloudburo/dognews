@@ -1879,6 +1879,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/07/30/spezielles-training-hunde-lassen-giftkoder-einfach-liegen.html</loc>
+    <lastmod>2015-07-30</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/15/tierhaltung-ein-biss-kann-teuer-werden.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.7</priority>
@@ -3856,6 +3862,12 @@
     <loc>https://dognews.curation.space//2015/07.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/07/30.html</loc>
+    <lastmod>2015-07-28</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -6098,6 +6110,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/erziehung/page/2.html</loc>
+    <lastmod>2015-07-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/erziehung/page/3.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
