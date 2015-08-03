@@ -2083,6 +2083,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/03/buchtipp-sirius-hundespion-in-nazi-deutschland.html</loc>
+    <lastmod>2015-08-03</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/16/fristlose-kundigung-rechtens-wenn-der-nachbar-beleidigt-wird.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.7</priority>
@@ -3874,6 +3880,18 @@
     <loc>https://dognews.curation.space//2015.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08.html</loc>
+    <lastmod>2015-07-28</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08/03.html</loc>
+    <lastmod>2015-07-28</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
