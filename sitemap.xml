@@ -1897,6 +1897,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/04/pfotenhilfe-appelliert-hunde-und-katzen-sollten-nicht-aus-mitleid-aus-dem-urlaub.html</loc>
+    <lastmod>2015-08-04</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/11/10/gehorsam-auf-distanz.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.7</priority>
@@ -3892,6 +3898,12 @@
     <loc>https://dognews.curation.space//2015/08.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08/04.html</loc>
+    <lastmod>2015-07-28</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -6446,6 +6458,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/34.html</loc>
+    <lastmod>2015-07-28</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/35.html</loc>
     <lastmod>2015-07-28</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
