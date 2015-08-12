@@ -265,6 +265,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/12/wandern-mit-hund-tipps.html</loc>
+    <lastmod>2015-08-12</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/05/13/die-marke-pedigree-plant-mit-feed-the-good-das-gute-von-hunden-in-der-gesamten-w.html</loc>
     <lastmod>2015-08-08</lastmod>
     <priority>0.7</priority>
@@ -3901,13 +3907,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://dognews.curation.space//tags/herdenhunde.html</loc>
+    <loc>https://dognews.curation.space//tags/wandern.html</loc>
     <lastmod>2015-08-08</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://dognews.curation.space//tags/wandern.html</loc>
+    <loc>https://dognews.curation.space//tags/herdenhunde.html</loc>
     <lastmod>2015-08-08</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -3940,6 +3946,12 @@
     <loc>https://dognews.curation.space//2015/08.html</loc>
     <lastmod>2015-08-08</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08/12.html</loc>
+    <lastmod>2015-08-08</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -6550,6 +6562,12 @@
     <loc>https://dognews.curation.space//2015/page/35.html</loc>
     <lastmod>2015-08-08</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08/page/2.html</loc>
+    <lastmod>2015-08-08</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
