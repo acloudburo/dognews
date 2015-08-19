@@ -1207,6 +1207,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/19/was-tun-wenn-man-herrenlose-tiere-findet.html</loc>
+    <lastmod>2015-08-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/08/10/beim-hund-liegen-liebe-und-hass-nah-beieinander.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
@@ -3988,6 +3994,12 @@
     <loc>https://dognews.curation.space//2015/08.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08/19.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
