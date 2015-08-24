@@ -3277,6 +3277,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/24/praventionsfilm-nimmt-kindern-angst-vor-hunden.html</loc>
+    <lastmod>2015-08-24</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/01/15/hilfe-mein-hund-jagt-weshalb-paul-im-wald-an-die-leine-muss.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
@@ -4012,6 +4018,12 @@
     <loc>https://dognews.curation.space//2015/08.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/08/24.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -6668,6 +6680,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/36.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/37.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
