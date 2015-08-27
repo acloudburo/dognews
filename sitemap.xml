@@ -1093,6 +1093,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/27/assistenzhunde-sind-eine-wichtige-unterstutzung.html</loc>
+    <lastmod>2015-08-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/08/05/st-gallen-ohne-rassenliste.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
@@ -4039,6 +4045,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/27.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/08/25.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.8</priority>
@@ -6152,6 +6164,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/deutschland/page/41.html</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/deutschland/page/42.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
