@@ -793,6 +793,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/08/28/tierhalter-haftpflichtversicherung.html</loc>
+    <lastmod>2015-08-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/06/01/der-mops-hat-viele-heimliche-liebhaber.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
@@ -5942,6 +5948,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/64/</loc>
+    <lastmod>2015-08-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/65/</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
