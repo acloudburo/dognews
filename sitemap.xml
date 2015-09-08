@@ -2185,6 +2185,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/09/08/disclaimer.html</loc>
+    <lastmod>2015-09-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/01/26/hunde-im-auto-sicherer-transport.html</loc>
     <lastmod>2015-08-15</lastmod>
     <priority>0.7</priority>
