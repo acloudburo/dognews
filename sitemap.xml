@@ -277,6 +277,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/09/23/hunde-sind-schlechtere-problemloser-als-wolfe.html</loc>
+    <lastmod>2015-09-23</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/11/06/wenn-tiere-an-allergien-leiden.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.7</priority>
@@ -4195,6 +4201,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/09/23.html</loc>
+    <lastmod>2015-09-09</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/09/22.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.8</priority>
@@ -7010,6 +7022,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//2015/page/39.html</loc>
+    <lastmod>2015-09-09</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/page/40.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
