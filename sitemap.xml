@@ -1075,6 +1075,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/09/24/umgang-mit-hunden-kleine-kinder-verhalten-sich-erst-einmal-falsch.html</loc>
+    <lastmod>2015-09-24</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/12/05/pip-winziger-gps-tracker-mit-langer-akku-kapazitat-fur-hund-und-katze.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.7</priority>
@@ -6734,6 +6740,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/ratgeber/page/11.html</loc>
+    <lastmod>2015-09-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/ratgeber/page/12.html</loc>
     <lastmod>2015-09-09</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
