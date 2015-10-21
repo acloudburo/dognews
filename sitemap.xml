@@ -565,6 +565,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/10/21/mitversichert-katze-ja-hund-nein.html</loc>
+    <lastmod>2015-10-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/06/08/was-tun-wenn-der-hund-stirbt.html</loc>
     <lastmod>2015-10-02</lastmod>
     <priority>0.7</priority>
@@ -4327,6 +4333,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/10/21.html</loc>
+    <lastmod>2015-10-02</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/10/20.html</loc>
     <lastmod>2015-10-02</lastmod>
     <priority>0.8</priority>
@@ -6752,6 +6764,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/gesetz/page/3.html</loc>
+    <lastmod>2015-10-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/gesetz/page/4.html</loc>
     <lastmod>2015-10-02</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
