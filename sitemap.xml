@@ -1585,6 +1585,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/10/26/zwei-pfiffe-und-die-herde-kommt.html</loc>
+    <lastmod>2015-10-26</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/06/29/begegnung-mit-einem-wolf-wie-verhalte-ich-mich-richtig.html</loc>
     <lastmod>2015-10-25</lastmod>
     <priority>0.7</priority>
@@ -6446,6 +6452,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/69/</loc>
+    <lastmod>2015-10-25</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/70/</loc>
     <lastmod>2015-10-25</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
