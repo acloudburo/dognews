@@ -2635,6 +2635,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/11/09/dogdance-der-mit-dem-hund-tanzt.html</loc>
+    <lastmod>2015-11-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2015/01/28/fruhjahrskur-mit-hund.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>0.7</priority>
@@ -7504,6 +7510,12 @@
     <loc>https://dognews.curation.space//2015/page/44.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//2015/11/page/2.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
