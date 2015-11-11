@@ -559,6 +559,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/11/11/kynophobie-angst-vor-hunden-was-tun.html</loc>
+    <lastmod>2015-11-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/12/03/mein-leben-dr-hund-fur-alle-falle.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>0.7</priority>
@@ -6979,6 +6985,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//tags/deutschland/page/46.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//tags/wissen/page/2.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>0.7</priority>
@@ -7058,6 +7070,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//tags/wissen/page/15.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//tags/wissen/page/16.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
