@@ -1627,6 +1627,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2015/12/22/effektiver-aber-unsauberer-als-katzen-hunde-schlabbern-mit-system.html</loc>
+    <lastmod>2015-12-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2014/09/04/haustiere-fur-berufstatige-streicheln-nur-nach-18-uhr.html</loc>
     <lastmod>2015-12-20</lastmod>
     <priority>0.7</priority>
@@ -6854,6 +6860,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/73/</loc>
+    <lastmod>2015-12-20</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/74/</loc>
     <lastmod>2015-12-20</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
