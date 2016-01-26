@@ -3493,6 +3493,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space//2016/01/26/tierischer-trend-der-dog-bun-ist-da.html</loc>
+    <lastmod>2016-01-26</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space//2016/01/26/amicus-riesiges-chaos-bei-neuer-hunde-datenbank.html</loc>
     <lastmod>2016-01-26</lastmod>
     <priority>0.7</priority>
@@ -7058,6 +7064,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space//page/75/</loc>
+    <lastmod>2016-01-08</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space//page/76/</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
