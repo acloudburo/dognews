@@ -4657,6 +4657,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space/2016/04/29/der-blickwinkel-des-hundehalters-by-thomas-riepe.html</loc>
+    <lastmod>2016-04-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space/tags/schweiz.html</loc>
     <lastmod>2016-04-22</lastmod>
     <priority>0.9</priority>
@@ -4804,6 +4810,12 @@
     <loc>https://dognews.curation.space/2016/04.html</loc>
     <lastmod>2016-04-22</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space/2016/04/29.html</loc>
+    <lastmod>2016-04-22</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
