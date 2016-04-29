@@ -4669,6 +4669,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space/2016/04/29/hunde-passen-auf-ihre-herde-auf.html</loc>
+    <lastmod>2016-04-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space/tags/schweiz.html</loc>
     <lastmod>2016-04-22</lastmod>
     <priority>0.9</priority>
@@ -7670,6 +7676,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space/tags/deutschland/page/49.html</loc>
+    <lastmod>2016-04-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space/tags/deutschland/page/50.html</loc>
     <lastmod>2016-04-22</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
