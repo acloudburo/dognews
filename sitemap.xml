@@ -4687,6 +4687,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space/2016/05/09/hund-wird-im-auto-zum-gescho.html</loc>
+    <lastmod>2016-05-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space/tags/schweiz.html</loc>
     <lastmod>2016-04-22</lastmod>
     <priority>0.9</priority>
@@ -7274,6 +7280,12 @@
   </url>
   <url>
     <loc>https://dognews.curation.space/page/77/</loc>
+    <lastmod>2016-04-22</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space/page/78/</loc>
     <lastmod>2016-04-22</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
