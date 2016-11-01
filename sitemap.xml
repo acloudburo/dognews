@@ -2407,6 +2407,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://dognews.curation.space/2016/11/01/kennen-sie-ihr-haustier.html</loc>
+    <lastmod>2016-11-01</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://dognews.curation.space/2015/02/24/eine-minute-biologie-eroberung-ohne-besten-freund.html</loc>
     <lastmod>2016-10-07</lastmod>
     <priority>0.7</priority>
@@ -4906,6 +4912,18 @@
     <loc>https://dognews.curation.space/2016.html</loc>
     <lastmod>2016-10-07</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space/2016/11.html</loc>
+    <lastmod>2016-10-07</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://dognews.curation.space/2016/11/01.html</loc>
+    <lastmod>2016-10-07</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
